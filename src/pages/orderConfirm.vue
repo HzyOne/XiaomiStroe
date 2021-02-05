@@ -146,10 +146,10 @@
             </select>
           </div>
           <div class="item">
-            <textarea name="street" id="" cols="30" rows="10" v-model="checkedItem.receiverAddress"></textarea>
+            <textarea name="street" id="" cols="30" rows="10" placeholder="请输入具体收货地址" v-model="checkedItem.receiverAddress"></textarea>
           </div>
           <div class="item">
-            <input type="text" class="input" placeholder="邮政编号" v-model="checkedItem.receiverZip">
+            <input type="text" class="input" maxlength="6" placeholder="请输入六位数数字邮政编号" v-model="checkedItem.receiverZip">
           </div>
         </div>
       </template>

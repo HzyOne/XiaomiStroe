@@ -78,7 +78,7 @@
               <h2>手机</h2>
               <div class="wrapper">
               <div class="banner-left">
-                <a href="'/#/product/35'">
+                <a href="/#/product/35">
                   <img v-lazy="'/imgs/mix-alpha.jpg'" alt="">
                 </a>
               </div>
