@@ -65,7 +65,7 @@
   import OrderHeader from './../components/OrderHeader'
   import Loading from './../components/Loading'
   import NoData from './../components/NoData'
-  import { Pagination  } from 'element-ui';
+  import { Pagination } from 'element-ui';
   export default{
     name:'order-list',
     data () {
