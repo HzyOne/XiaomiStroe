@@ -10,7 +10,6 @@
         </div>
         <div>
             <p class="copyright">此网站设计稿为慕课网(Vue全家桶实战 从零独立开发企业级电商系统)蓝湖设计稿</p>
-            <p class="copyright">此网站模仿小米官网，除后台接口外以及数据库，所有相关代码均为本人手写</p>
         </div> 
     </div>
 </template>
