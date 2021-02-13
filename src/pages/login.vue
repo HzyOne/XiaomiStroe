@@ -28,11 +28,9 @@
     <div class="footer">
       <div class="footer-link">
         <a href="https://cn.vuejs.org/v2/guide/" target="_blank">Vue官方文档</a><span>|</span>
-        <a href="https://git.imooc.com/" target="_blank">慕课git仓库</a><span>|</span>
-        <a href="https://coding.imooc.com/class/236.html" target="_blank">React全家桶课程</a><span>|</span>
+        <a href="https://github.com/HzyOne/XiaomiStroe" target="_blank">github仓库(源码)</a>
       </div>
       <p class="copyright">此网站设计稿为慕课网(Vue全家桶实战 从零独立开发企业级电商系统)蓝湖设计稿</p>
-      <p class="copyright">此网站模仿小米官网，所有相关代码均为本人手写</p>
     </div>
     <modal
       title="账号注册"
