@@ -17,5 +17,5 @@ module.exports = {
     //防止一次性加载所有文件
     chainWebpack: (config) => {
         config.plugins.delete('prefetch');
-    }
+  }
 }

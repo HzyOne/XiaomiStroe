@@ -8,9 +8,6 @@
             <a href="https://cn.vuejs.org/v2/guide/" target="_blank">Vue官方文档</a><span>|</span>
             <a href="https://github.com/HzyOne/XiaomiStroe" target="_blank">github仓库(源码)</a>
         </div>
-        <div>
-            <p class="copyright">此网站设计稿为慕课网(Vue全家桶实战 从零独立开发企业级电商系统)蓝湖设计稿</p>
-        </div> 
     </div>
 </template>
 
